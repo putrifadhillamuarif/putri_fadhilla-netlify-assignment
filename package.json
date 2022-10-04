@@ -1,0 +1,17 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "main": "test.js",
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "jsdom": "20.0.0",
+    "tailwindcss": "^3.1.8"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "jest --noStackTrace"
+  },
+  "description": "## Objectives * Bisa membuat styling halaman web dengan Tailwind CSS. * Bisa membuat website responsive dengan Tailwind CSS. * Bisa membuat layout Flexbox dengan Tailwind CSS. * Bisa membuat styling form dengan Tailwind CSS. * Bisa membuat styling HTML element dengan Tailwind CSS.",
+  "author": "",
+  "license": "ISC"
+}
